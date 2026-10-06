@@ -106,23 +106,6 @@ I have experience in **Manual Testing and Automation Testing**, with a strong in
 - Network Testing
 - Positive & Negative Scenarios
 ---
-
-### ⚡ Performance Testing
-
-<p>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-</p>
-
-Basic knowledge of:
-
-- Load Testing
-- Response Time
-- Concurrent Users
-- Throughput
-- Basic JMeter Test Plans
-- Performance Results Analysis
-
----
 ## 💼 Business & Product Experience
 
 Alongside my software testing experience, I have hands-on experience in **business and product-related activities**, which helps me understand software from both the **technical and business perspectives**.
