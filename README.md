@@ -31,7 +31,7 @@ I have experience in **Manual Testing and Automation Testing**, with a strong in
 - 🔄 Experience working in **Agile/Scrum** environments
 - 🐞 Defect Reporting & Tracking
 - 📋 Test Case Design & Execution
-- 🎯 ISTQB Certified
+- 🎯 ISTQB (Foundation , Mobila and Agile) Certified
 
 ---
 
@@ -94,7 +94,6 @@ I have experience in **Manual Testing and Automation Testing**, with a strong in
 - Basic API Test Automation
 
 ---
-
 ### 📱 Mobile Application Testing
 
 - Manual Mobile Application Testing
@@ -106,7 +105,6 @@ I have experience in **Manual Testing and Automation Testing**, with a strong in
 - Orientation Testing
 - Network Testing
 - Positive & Negative Scenarios
-
 ---
 
 ### ⚡ Performance Testing
@@ -125,7 +123,22 @@ Basic knowledge of:
 - Performance Results Analysis
 
 ---
+## 💼 Business & Product Experience
 
+Alongside my software testing experience, I have hands-on experience in **business and product-related activities**, which helps me understand software from both the **technical and business perspectives**.
+
+- 📊 Business analysis and understanding business requirements
+- 📝 Requirements gathering and documentation
+- 🎯 Translating business needs into clear software requirements
+- 🔄 Working with stakeholders and development teams
+- 🧩 Understanding user needs and business workflows
+- 🚀 Product planning and feature definition
+- 💡 Contributing to product ideas and business solutions
+- 📈 Understanding business processes and identifying areas for improvement
+
+This experience helps me approach testing beyond finding defects — I focus on understanding **why a feature exists, how users will use it, and whether it delivers the expected business value**.
+
+---
 ## 🛠️ Tools & Technologies
 
 <p align="center">
@@ -142,21 +155,6 @@ Basic knowledge of:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
 
 </p>
-
----
-
-## 📚 Methodologies & Practices
-
-- Agile / Scrum
-- Software Testing Life Cycle (STLC)
-- Software Development Life Cycle (SDLC)
-- Defect Life Cycle
-- Test Planning
-- Test Scenario & Test Case Design
-- Risk-Based Testing
-- Bug Reporting
-- Regression Testing
-
 ---
 
 ## 🎓 Certifications
@@ -197,22 +195,3 @@ I'm continuously improving my automation skills with the goal of becoming a stro
 
 I believe good QA requires **critical thinking, attention to detail, technical knowledge, and continuous learning**.
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:olametwaly3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ola-mohamed-8ba11b16b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ola-Mohamed&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
