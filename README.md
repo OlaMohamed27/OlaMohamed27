@@ -136,7 +136,8 @@ This experience helps me approach testing beyond finding defects — I focus on 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
 
-</p>
+</p> 
+
 ---
 
 ## 🎓 Certifications
