@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ola Mohamed Ahmed</h1>
 
 <h3 align="center">
-  🔍 Software Testing Engineer | 🤖 Automation QA | 🧪 Quality Engineering
+  💻 Software Testing Engineer | 🤖 Automation QA | 🧪 Quality Assurance
 </h3>
 
 <p align="center">
@@ -17,24 +17,25 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Testing Engineer** passionate about building reliable, scalable, and high-quality software through effective testing strategies.
+I'm a **Software Testing Engineer** passionate about delivering reliable, high-quality software through effective testing strategies.
 
-I have hands-on experience in **Manual Testing and Automation Testing**, with a growing focus on building maintainable automation frameworks and improving QA processes.
+I have experience in **Manual Testing and Automation Testing**, with a strong interest in building maintainable automation frameworks and continuously improving my QA skills.
 
-🔹 2+ years of experience in Software Testing  
-🔹 Experienced in Web, API, Mobile & Performance Testing  
-🔹 Building UI automation using **Java + Selenium + TestNG**  
-🔹 Familiar with **Page Object Model (POM)** and Maven  
-🔹 Experienced in API testing using **Postman**  
-🔹 Database validation using **SQL / MySQL**  
-🔹 Performance testing using **JMeter**  
-🔹 Familiar with **Appium** for mobile automation  
-🔹 Experienced with Agile/Scrum environments and defect management  
-🔹 ISTQB Certified  
+- 🔍 2+ years of experience in Software Testing
+- 🤖 Automation Testing using **Java & Selenium**
+- 🧪 Manual & Functional Testing
+- 🔌 API Testing using **Postman**
+- 📱 Manual Mobile Application Testing
+- ⚡ Basic Performance Testing using **JMeter**
+- 🧩 Familiar with **TestNG, Maven & Page Object Model**
+- 🔄 Experience working in **Agile/Scrum** environments
+- 🐞 Defect Reporting & Tracking
+- 📋 Test Case Design & Execution
+- 🎯 ISTQB Certified
 
 ---
 
-## 🧪 Testing & Automation Skills
+## 🧪 Testing Skills
 
 ### 🤖 Automation Testing
 
@@ -43,51 +44,85 @@ I have hands-on experience in **Manual Testing and Automation Testing**, with a 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/POM-Framework-blue?style=for-the-badge"/>
 </p>
 
-### 🔍 Manual & Functional Testing
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Page Object Model (POM)
+- Web Element Locators
+- Explicit & Implicit Waits
+- Assertions
+- Data-Driven Testing Basics
+- Reusable Automation Methods
 
-- Test Case Design & Execution
+---
+
+### 🔍 Manual Testing
+
 - Functional Testing
 - Regression Testing
-- Smoke & Sanity Testing
+- Smoke Testing
+- Sanity Testing
 - Integration Testing
 - System Testing
-- User Acceptance Testing (UAT)
 - Exploratory Testing
-- Defect Reporting & Tracking
+- User Acceptance Testing (UAT)
+- Test Case Design & Execution
 - Requirements Analysis
+- Defect Reporting & Tracking
+- UI/UX Validation
+- Cross-Browser Testing
 
-### 🔌 API & Database Testing
+---
+
+### 🔌 API Testing
 
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Testing-02569B?style=for-the-badge"/>
 </p>
 
-- API Validation
-- REST API Testing
-- Request/Response Validation
+- API Testing using Postman
+- GET / POST / PUT / DELETE
 - Status Code Validation
-- JSON Validation
-- Database Validation
-- SQL Queries
+- Request & Response Validation
+- JSON Response Validation
+- Headers & Parameters
+- Positive & Negative Testing
+- Basic API Test Automation
 
-### 📱 Mobile & Performance Testing
+---
+
+### 📱 Mobile Application Testing
+
+- Manual Mobile Application Testing
+- Android Application Testing
+- Functional Testing
+- UI/UX Testing
+- Compatibility Testing
+- Installation & Uninstallation Testing
+- Orientation Testing
+- Network Testing
+- Positive & Negative Scenarios
+
+---
+
+### ⚡ Performance Testing
 
 <p>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
 </p>
 
-- Mobile Application Testing
-- Mobile Automation Fundamentals
+Basic knowledge of:
+
 - Load Testing
-- Performance Testing
-- Response Time Analysis
+- Response Time
+- Concurrent Users
+- Throughput
+- Basic JMeter Test Plans
+- Performance Results Analysis
 
 ---
 
@@ -98,7 +133,6 @@ I have hands-on experience in **Manual Testing and Automation Testing**, with a 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" title="Selenium"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Azure DevOps"/>
@@ -111,58 +145,17 @@ I have hands-on experience in **Manual Testing and Automation Testing**, with a 
 
 ---
 
-## 📂 Featured QA Projects
+## 📚 Methodologies & Practices
 
-### 🤖 Selenium Automation Framework
-
-**Java | Selenium WebDriver | TestNG | Maven | Page Object Model**
-
-A structured UI automation framework designed to automate end-to-end e-commerce scenarios.
-
-**Covered scenarios:**
-
-- 🔎 Product Search
-- 🛒 Add to Cart
-- ➕ Increase / Decrease Quantity
-- 💰 Price Validation
-- 🛍️ Cart Validation
-- 📦 Checkout
-- 🌍 Country Selection
-- ✅ Terms & Conditions
-- 💳 Order Placement
-
-**Framework Concepts:**
-
-`Page Object Model` • `Reusable Methods` • `Assertions` • `TestNG` • `Maven`
-
----
-
-### 📊 PMO & OKR Platform Testing
-
-**Manual Testing | Web Testing | API | UAT | Agile**
-
-End-to-end QA involvement in an enterprise **PMO & OKR management platform**.
-
-**Testing areas included:**
-
-- Dashboard & KPIs
-- Goals & Objectives
-- OKRs & Key Results
-- Projects & Programs
-- Work Packages
-- Tasks & Milestones
-- RAID Log
-- Resource Management
-- Document Management
-- Approval Workflows
-- Bulk Upload
-- Reports & Exports
-- Arabic / English Validation
-- Responsive & UI/UX Testing
-
-**QA Deliverables:**
-
-`Test Cases` • `UAT Scenarios` • `Bug Reports` • `Test Summary Reports` • `Requirements Validation`
+- Agile / Scrum
+- Software Testing Life Cycle (STLC)
+- Software Development Life Cycle (SDLC)
+- Defect Life Cycle
+- Test Planning
+- Test Scenario & Test Case Design
+- Risk-Based Testing
+- Bug Reporting
+- Regression Testing
 
 ---
 
@@ -176,34 +169,25 @@ End-to-end QA involvement in an enterprise **PMO & OKR management platform**.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ola-Mohamed&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ola-Mohamed&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🚀 Currently Learning
 
 ```text
 Automation Testing
         ↓
-Selenium + Java
+Java + Selenium
         ↓
 TestNG + Maven
         ↓
 Page Object Model
         ↓
-API Automation
+API Testing
+        ↓
+Automation Framework Design
         ↓
 CI/CD & GitHub Actions
-        ↓
-Advanced Automation Frameworks
 ```
 
-I'm continuously improving my automation skills with the goal of becoming a strong **Automation QA / SDET Engineer**.
+I'm continuously improving my automation skills with the goal of becoming a strong **Automation QA Engineer**.
 
 ---
 
@@ -211,7 +195,7 @@ I'm continuously improving my automation skills with the goal of becoming a stro
 
 > "Quality is not just about finding bugs — it's about preventing them."
 
-I believe effective QA combines **technical skills, critical thinking, business understanding, and continuous improvement**.
+I believe good QA requires **critical thinking, attention to detail, technical knowledge, and continuous learning**.
 
 ---
 
