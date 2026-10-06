@@ -31,7 +31,7 @@ I have experience in **Manual Testing and Automation Testing**, with a strong in
 - 🔄 Experience working in **Agile/Scrum** environments
 - 🐞 Defect Reporting & Tracking
 - 📋 Test Case Design & Execution
-- 🎯 ISTQB (Foundation , Mobila and Agile) Certified
+- 🎯 ISTQB (Foundation, Mobile, and Agile) Certified
 
 ---
 
@@ -134,7 +134,6 @@ This experience helps me approach testing beyond finding defects — I focus on 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Azure DevOps"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" title="Jira"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
 
 </p>
@@ -168,13 +167,6 @@ Automation Framework Design
 CI/CD & GitHub Actions
 ```
 
-I'm continuously improving my automation skills with the goal of becoming a strong **Automation QA Engineer**.
+I'm continuously improving my automation skills to become a strong **Automation QA Engineer**.
 
----
-
-## 💡 QA Mindset
-
-> "Quality is not just about finding bugs — it's about preventing them."
-
-I believe good QA requires **critical thinking, attention to detail, technical knowledge, and continuous learning**.
 
